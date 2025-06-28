@@ -28,11 +28,15 @@ Asegúrate de tener Deno instalado. Puedes hacerlo desde [aquí](https://deno.la
 ```
 /routes
   └─ index.tsx
-  └─ [search].tsx
-/islands
-  └─ Search.tsx
+  └─ search.tsx
+  └─ character
+      └─ [id].tsx
 /components
   └─ CharacterCard.tsx
+  └─ CharacterList.tsx
+  └─ Header.tsx
+  └─ SearchFortm.tsx
+
 ```
 
 ## 🧠 Créditos
